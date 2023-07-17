@@ -21,9 +21,9 @@ function isMergableBranch() {
   return $outcome
 }
 
-function performMerge() {
+# function performMerge() {
   
-}
+# }
 
 function findRemoteBranches() {
 
